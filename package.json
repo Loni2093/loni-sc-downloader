@@ -1,0 +1,11 @@
+{
+  "name": "loni-sc-downloader",
+  "type": "module",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^1.7.0",
+    "dotenv": "^16.4.5",
+    "mkdirp": "^3.0.1",
+    "sanitize-filename": "^1.6.3"
+  }
+}
